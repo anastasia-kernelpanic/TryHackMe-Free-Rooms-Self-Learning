@@ -51,8 +51,8 @@ The counts below are carried over from the supplied checklist and have not been 
 
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
-| **[Introductory Rooms](#intro-rooms)**            |     **10**      |                           |
-| **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |           **5**           |
+| **[Introductory Rooms](#intro-rooms)**            |     **10**      |           1                |
+| **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |                    |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |                           |
 | **[Reconnaissance](#recon)**                      |     **10**      |                           |
@@ -87,7 +87,7 @@ The counts below are carried over from the supplied checklist and have not been 
 
 ---
 
-- [ ] [TryHackMe | Welcome](https://tryhackme.com/room/hello)
+- [+] [TryHackMe | Welcome](https://tryhackme.com/room/hello)
 
 - [ ] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
 
